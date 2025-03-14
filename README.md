@@ -1,10 +1,11 @@
 
 # My HTML, CSS, and JavaScript Practice Projects
 
-This repository contains various small projects I built while learning HTML, CSS, and JavaScript. Each project demonstrates a specific concept or functionality.
+This repository contains various small projects I built while learning HTML, CSS, and JavaScript. Each project demonstrates a specific concept or functionality and everyone of them is responsive.
 
-# Projects
 
+Projects
+---
 
 ### 01_Color Flipper
 
@@ -24,7 +25,7 @@ http://admirable-counter.netlify.app
 ---
 
 ### 03_Reviews
-A testimonial/reviews section where user feedback is displayed dynamically.
+A testimonial/reviews section where user feedback is displayed.
 
 Website url:
 http://super-reviews.netlify.app
@@ -67,7 +68,7 @@ https://questions02.netlify.app
 
 ### 08_Menu Card
 
-A menu display for a restaurant or shop, showcasing different items.
+A menu display for a restaurant or shop, showcasing different items. Also the items can be filtered.
 
 Website url:
 https://menu-card02.netlify.app
