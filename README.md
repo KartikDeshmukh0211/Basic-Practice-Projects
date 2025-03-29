@@ -81,3 +81,30 @@ A simple video project to embed and control video playback.
 
 Website url:
 https://video-player02.netlify.app
+
+---
+
+### 10_Guess The Number Game
+
+A simple number-guessing game where the user has to guess a randomly generated number within a certain range. The game provides feedback on whether the guessed number is too high, too low, or correct.
+
+Website url:
+https://guess-the-number02.netlify.app
+
+---
+
+### 11_String Transformer
+
+A tool that modifies strings based on different transformation rules, such as reversing, changing case, or replacing specific characters. Useful for text manipulation and formatting.
+
+Website url:
+https://stirng-transformer.netlify.app
+
+---
+
+### 12_Telephone Formatter
+
+A utility that formats phone numbers into a standardized format (e.g., (123) 456-7890). It ensures consistency and improves readability in user-inputted phone numbers.
+
+Website url:
+https://telephone-transformer.netlify.app
