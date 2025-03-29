@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+}
+
+.input-number{
+    display: block;
+    margin-inline: auto;
+    margin-bottom: 15px;
+}
