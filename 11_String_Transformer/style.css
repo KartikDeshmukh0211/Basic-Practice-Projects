@@ -1,0 +1,47 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+}
+
+header{
+    box-shadow: 0 4px 4px #0000001a;
+    text-align: center;
+    padding-bottom: 7px;
+}
+
+main{
+    width: 900px;
+    margin-inline: auto;
+    margin-block: 20px;
+}
+
+input{
+    width: 100%;
+    height: 39px;
+    font-size: 17px;
+}
+
+.output{
+    background-color: beige;
+    height: 50px;
+    margin-top: 40px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding-left: 15px;
+    font-size: 18px;
+}
+
+.title{
+    display: inline-block;
+    position: absolute;
+    background-color: black;
+    color: white;
+    left: 15px;
+    top: -11px;
+    font-size: 18px;
+}
