@@ -95,7 +95,7 @@ https://guess-the-number02.netlify.app
 
 ### 11_String Transformer
 
-A tool that modifies strings based on different transformation rules, such as reversing, changing case, or replacing specific characters. Useful for text manipulation and formatting.
+A tool that converts input text into various case formats like lowercase, uppercase, camelCase, PascalCase, snake_case, and kebab-case in real time, making text formatting quick and easy.
 
 Website url:
 https://stirng-transformer.netlify.app
@@ -104,7 +104,7 @@ https://stirng-transformer.netlify.app
 
 ### 12_Telephone Formatter
 
-A utility that formats phone numbers into a standardized format (e.g., (123) 456-7890). It ensures consistency and improves readability in user-inputted phone numbers.
+A utility that formats phone numbers into a standardized format (e.g., +(123) - 4567890). It ensures consistency and improves readability in user-inputted phone numbers.
 
 Website url:
 https://telephone-transformer.netlify.app
